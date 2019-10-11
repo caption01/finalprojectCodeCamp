@@ -90,6 +90,39 @@ p {
 
 }
 
+@media (max-width: 575.98px) { 
+    .content, .footer {
+        display: block;
+    }
+
+    .content-left, .content-middle, .content-extra {
+       padding-top: 1.5em;
+       margin: auto;
+    }
+
+    .content-select, .content-left {
+        width: 80%;
+    }
+
+    .footer {
+        text-align: center;
+    }
+
+    .footer-item {
+        padding-top: 0.5em;
+    }
+
+    .footer-item-input {
+        width: 79%;
+    }
+
+    .footer-item-btn {
+        width: 30%
+    }
+    
+ }
+
+
 /* ==========KEY FRAME============ */
 
 /* ----------------------------------------------

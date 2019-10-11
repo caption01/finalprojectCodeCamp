@@ -8,4 +8,13 @@
 
 ## commit 2 - responsive 
 
+    [x] add responsive for desktop screen
+        [x] text size.
+        [x] text wrap.
+        [x] resopnsive image.
+        [x] resopnsive block
+
+    [x] add media query for small device (575 px) 
+        
 ## commit 3 - dynamic
+
