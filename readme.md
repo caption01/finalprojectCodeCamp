@@ -1,5 +1,10 @@
 # Final Project CodeCamp - Responesive Resume
 
+## Descript for my resume app.
+    -   Image Saying "Hello" when mousehover on it.
+    -   Skill content display for ability you choose.
+    -   change your infomation by Edit bar in bottom section. (having text animation when infomation change)
+    -   
 ## commit 1 - landing page
 
     [x] create structure of page (index.html).
@@ -29,3 +34,7 @@
         [x] button touch feeling.
 
     [x] final style decoration.
+
+## commit 4 - update REAMD.md 
+    [x] write description for user.
+    [x] create background color change tab.

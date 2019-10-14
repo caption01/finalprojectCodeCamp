@@ -22,7 +22,12 @@ $(document).ready(function(){
 
         $(`div[id*=${selectedContent}]`).removeClass("active");
         $(`div[id*=${selectedContent}]`).addClass("bounce-top")
-
     });
 
+    $("#colortab").change(function(){
+        let colorValue = $("#colortab").val()
+        $(".content").css("background-color", colorValue);
+      });
+
 });
+
